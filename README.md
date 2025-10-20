@@ -23,7 +23,7 @@ A context-aware EPUB scanner identifying objectionable content (profanity, hate 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/book-content-scanner.git
+   git clone https://github.com/jree101/book-content-scanner.git
    cd book-content-scanner
    ```
 2. Install dependencies:
@@ -33,7 +33,7 @@ A context-aware EPUB scanner identifying objectionable content (profanity, hate 
 3. Place EPUB files in the `books/` folder.
 4. Run the scanner:
    ```bash
-   python book_scanner_phase2.py
+   python book_scanner.py
    ```
 
 ## Configuration
