@@ -1,0 +1,24 @@
+.gitignore
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+
+# Hugging Face model cache
+~/.cache/huggingface/
+models--*/
+
+# Scan reports and outputs
+scan_reports/
+
+# Logs and temp files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
